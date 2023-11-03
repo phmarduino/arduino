@@ -20,8 +20,8 @@
 #include <SPI.h>
 
 // Declarations WIFI
-const char* ssid = "freeboxLM";
-const char* password = "722AB93D9F";
+const char* ssid = "le nom de mon WIFI";
+const char* password = "mon mot de passe WIFI";
 
 // Variables de travail
 unsigned long epoch = 0;
